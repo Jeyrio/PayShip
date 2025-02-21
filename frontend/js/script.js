@@ -1,5 +1,7 @@
 // // Backend base URL
-const BASE_URL = 'http://localhost:5000/api/auth'; 
+// const BASE_URL = 'http://localhost:5000/api/auth'; 
+const BASE_URL = 'https://tracklogic.vercel.app/api';
+
 
 /************ Authentication Utilities ************/
 // Check if the user is authenticated
